@@ -1,0 +1,8 @@
+body {
+    line-height: 1.6;
+    color: #333;
+    box-shadow: 0 4px 8px 0 #333, 0 6px 20px 0 #333;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
